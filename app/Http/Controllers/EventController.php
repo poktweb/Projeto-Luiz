@@ -11,8 +11,8 @@ class EventController extends Controller
     }
 
 
-    public function PLRs() {
-        return view('PLRs');
+    public function criarevento() {
+        return view('/criar-evento');
     }
 
 }

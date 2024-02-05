@@ -29,20 +29,21 @@
               <li class="nav-item">
                 <a class="nav-link" href="javascript:void(0)">Livros</a>
               </li>
+
               <li class="nav-item">
-                <a class="nav-link" href="/events/create">Sobre</a>
+                <a class="nav-link" href="javascript:void(0)">Sobre</a>
               </li>
+
               <li class="nav-item">
                 <a class="nav-link" href="javascript:void(0)">Contato</a>
               </li>
+
+              {{-- Criar Eventos adm --}}
+              <li class="nav-item">
+                <a class="nav-link" href="/criar-evento">Cadastrar Eventos</a>
+              </li>
             </ul>
           </div>
-
-              {{--CARINHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO--}}
-         {{-- <li class="navbar">
-            <a href = "carrinho.php"><img src="/img/cart.png" class="cart" alt="..."></a>
-            <a class="carrinho" href="carrinho.php">Carrinho</a>
-          </li>--}}
 
 
         </div>

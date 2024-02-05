@@ -21,4 +21,4 @@ Route::get('/', function () {
 
 /*Route::view('/PLRs','layouts.PLRs');*/
 
-Route::get('/PLRs', [EventController::class, 'PLRs']);
+Route::get('/criar-evento', [EventController::class, 'criarevento']);
