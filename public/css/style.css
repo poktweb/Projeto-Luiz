@@ -732,6 +732,9 @@ img {
         height: 82px;
         user-select: none;
     }
+}
 
-
+.textarea {
+    height: 10em !important;
+    width: 20em;
 }
